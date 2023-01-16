@@ -25,7 +25,7 @@ namespace Example_5_Login_Application_
                 Console.WriteLine("Kullanıcı Şifrenizi Giriniz: ");
                 string UserPassword = Console.ReadLine();
 
-                if (UserName == "Yusuf" && UserPassword == "123456y")
+                if (UserName == "Erva" && UserPassword == "1234Erva")
                 {
                     Console.WriteLine("Congrulations! You have logined succesfully.");
                     break;
